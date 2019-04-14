@@ -7,29 +7,29 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
-author: Fábio Madeira
+url: http://jideguru.github.io/
+author: JideGuru
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: 
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+baseurl: /
+title: JideGuru's Resume
+name: Olusegun Festus Babajide
+email: guruliciousjide@gmail.com
+email_full: mailto:guruliciousjide@gmail.com
+website: github.io/jideguru
+website_full: https://jideguru.github.io/
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+tel: +229 94 68 44 68
+tel_full: tel:+22994684468
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: 1818 Agbokou Jibite
+  postcode: 00229
+  city: Porto Novo
+  country: Benin Republic
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
